@@ -3,7 +3,9 @@ LevelTag for Octopress
 
 Description
 -----------
-Octopress plugin to add a level label to a post.
+Octopress plugin to add a level label to a post. Its default langage is
+english, but you can easily customize it to your own langage. See an
+[example in french](http://lkdjiin.github.io/blog/2013/07/15/git-completion-automatique-et-alias-pour-debutants/).
 
 
 Install
